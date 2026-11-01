@@ -44,3 +44,6 @@ Minecraft/Forge/mod sürümünü, tekrar üretme adımlarını, beklenen ve ger�
 davranışı belirtin. Günlük paylaşmadan önce kişisel bilgileri ve sunucu
 adreslerini temizleyin. Güvenlik açığında herkese açık çalışır saldırı örneği
 yerine önce kısa bir sorun açıklaması paylaşın.
+
+The previous MIT notice is retained in `LICENSE-MIT-legacy.txt` for the earlier
+source distribution. The current repository uses the existing AGPL-3.0 license.

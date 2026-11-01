@@ -172,7 +172,7 @@ Resmî API başvuruları:
 [SavedData](https://docs.minecraftforge.net/en/1.20.1/datastorage/saveddata/),
 [GameTest](https://docs.minecraftforge.net/en/1.20.1/misc/gametest/).
 
-Kod ve özgün varlıklar MIT; Wikimedia türevleri kendi lisanslarıyla dağıtılır.
+Kod ve özgün varlıklar AGPL-3.0; Wikimedia türevleri kendi lisanslarıyla dağıtılır.
 `ASSET_CREDITS.md`, `LICENSE` ve MDK'nin `LICENSE.txt` dosyalarına bakın.
 
 ## 1.1.0 vize güncellemesi

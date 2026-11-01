@@ -173,6 +173,7 @@ tasks.named('jar', Jar).configure {
     from('LICENSE')
     from('ASSET_CREDITS.md')
     from('SOUND_CREDITS.md')
+    from('LICENSE-MIT-legacy.txt')
     from('ASSET_COVERAGE.md')
     manifest {
         attributes([
