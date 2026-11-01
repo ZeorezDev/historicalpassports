@@ -1,0 +1,44 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+.gradle-home/
+.tools/
+*.log
+assets/candidates/
+assets/sources/
+scripts/__pycache__/
+assets/gallery_previews/
+assets/extra_previews/
+assets/research/*.html
+dist/
+assets/research/
+assets/gallery_metadata/
+docs/test-evidence/
+*.mp3
+__pycache__/
+.env
+.env.*
+
+# Files from Forge MDK
+forge*changelog.txt
+
+assets/*-review*.png

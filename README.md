@@ -62,3 +62,26 @@ Right-click a passport to open its interactive GUI. Authorized officers can insp
 ### 🛂 EVERY PASSPORT TELLS A STORY. EVERY BORDER HAS A DECISION.
 
 **Historical Passports — Borders are more than just lines on a map.**
+
+## Development and contributions
+
+Source release: **1.1.0**, Minecraft **1.20.1**, Forge **47.4.28**, Java **17**.
+
+- [Contributing](CONTRIBUTING.md)
+- [Türkçe kurulum ve geliştirme rehberi](README_TR.md)
+- [Visa system guide](VISA_GUIDE.md)
+- [Test report and limitations](TEST_REPORT.md)
+- [Asset credits](ASSET_CREDITS.md) and [sound credits](SOUND_CREDITS.md)
+
+Build with `./gradlew build` (`gradlew.bat build` on Windows). Run server
+tests with `./gradlew runGameTestServer`. Output: `build/libs/`.
+
+195 countries are registered; 165 covers use reviewed Wikimedia sources and
+30 are original provisional artwork. Twelve server tests passed locally;
+a two-client remote multiplayer acceptance test has not yet been performed.
+
+## License
+
+Project code is distributed under AGPL-3.0 (see LICENSE). Third-party assets
+retain their individual licenses; see the credit files. The supplied stamp
+recording has no specified license and is not covered by the code license.

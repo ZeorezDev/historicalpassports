@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "historicalpassports:block/visa_application_desk"
+    }
+  }
+}

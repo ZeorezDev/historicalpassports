@@ -1,0 +1,284 @@
+[
+  {
+    "code": "TR",
+    "title": "File:Epasaport turkey.jpg",
+    "verified_metadata": {
+      "size": 33897,
+      "width": 189,
+      "height": 259,
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Epasaport_turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 250,
+      "thumbheight": 343,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Epasaport_turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 250,
+        "height": 343
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Epasaport_turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Epasaport_turkey.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10004355",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2011-01-21 00:00:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Epasaport turkey",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|PD-self|Passport covers of Turkey",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Biometric passport of Republic of Turkey",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Boy_from_far&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Boy from far (page does not exist)\">Boy from far</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "preview_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Epasaport_turkey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "code": "CL",
+    "title": "File:Chilean Biometric Passport Cover.jpg",
+    "verified_metadata": {
+      "size": 18660,
+      "width": 200,
+      "height": 289,
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Chilean_Biometric_Passport_Cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 250,
+      "thumbheight": 361,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Chilean_Biometric_Passport_Cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 250,
+        "height": 361
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Chilean_Biometric_Passport_Cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chilean_Biometric_Passport_Cover.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=28099242",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2013-09-06 13:19:24",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Chilean Biometric Passport Cover",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-Chile|Biometric passports of Chile|National coat of arms of Chile|Coats of arms on passports",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Chilean Biometric Passport Cover",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-09-05 20:39:21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "The Government of the Republic of Chile",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Gentileza Registro Civil",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "preview_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Chilean_Biometric_Passport_Cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  {
+    "code": "AM",
+    "title": "File:Հայկական անձնագիր.jpg",
+    "verified_metadata": {
+      "size": 631347,
+      "width": 1161,
+      "height": 1641,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg/250px-%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 250,
+      "thumbheight": 353,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg/500px-%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg/250px-%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 250,
+        "height": 353,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg/500px-%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=23988602",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-05-31 17:22:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Հայկական անձնագիր",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Government of Armenia|Passports of Armenia|National coat of arms of Armenia|PD-AM-exempt (documents)|Coats of arms on passports",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "frontbildo de la moderna armena pasporto.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-01-19 17:10:52",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Hamex27&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Hamex27 (page does not exist)\">Hamex27</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "preview_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg/250px-%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B1%D5%B6%D5%A1%D5%A3%D5%AB%D6%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  }
+]
